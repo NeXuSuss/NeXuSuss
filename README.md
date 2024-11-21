@@ -8,6 +8,12 @@
 
 <div align="center">
 
+<div align="center">
+  <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiODk2YjZkZmE4ZmU1OWM2MTU2ZjQ5ZmM1ZjI5NzA1NjRhMjU2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
+
+<br/>
+
 🔭 I'm currently working on **Machine Learning Algorithm Optimization and Performance Enhancement**
 
 🌱 I’m currently exploring **Field of Machine Learning**
