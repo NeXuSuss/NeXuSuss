@@ -75,3 +75,15 @@
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NeXuSuss/NeXuSuss/output/github-contribution-grid-snake.svg" />
 </div>
+
+<br/>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeXuSuss&theme=radical&hide_border=true" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeXuSuss&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeXuSuss&layout=compact&theme=radical&hide_border=true" />
+</div>
