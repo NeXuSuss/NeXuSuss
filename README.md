@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **Optimization of ML algorithms**
+🔭 I'm currently working on **Machine Learning Algorithm Optimization and Performance Enhancement**
 
 🌱 I’m currently exploring **Field of Machine Learning**
 
