@@ -77,7 +77,7 @@
 </div>
 
 <br/>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🔥 Stats 🔥</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeXuSuss&theme=radical&hide_border=true" />
 </div>
