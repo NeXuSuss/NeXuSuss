@@ -48,7 +48,7 @@
 <a href="https://open.spotify.com/user/y5oexngivg3h0s6x3d3vhevzz" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
 </a>
-
+<br/>
 <a href="https://www.reddit.com/user/NeXuS0602/" target="_blank">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
 </a>
