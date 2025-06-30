@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=35&center=true&vCenter=true&color=FF3DFB&width=600&pause=1000&lines=Hi%2C+I+am++Ayush+Sahu!;NeXuS+to+the+Digital+Realm" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&color=FF3DFB&width=600&pause=1000&lines=Hi%2C+I+am+Ayush+Sahu!;NeXuS+to+the+Digital+Realm&v=2" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate Machine Learning Enthusiast and Software Developer </h3>
